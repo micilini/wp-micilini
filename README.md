@@ -26,6 +26,10 @@ Segue abaixo, algumas imagens do Tema em questão 😁
 ![Tela 03](https://github.com/micilini/wp-micilini/blob/main/assets/img/tela-03.png)
 ![Tela 04](https://github.com/micilini/wp-micilini/blob/main/assets/img/tela-04.png)
 
+# Licensa
+
+Licensed under the [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).*
+
 
 
 
