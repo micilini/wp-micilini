@@ -1,5 +1,7 @@
 # Um Simples Tema para WordPress (WP-Micilini)
 
+![Tela 01](https://github.com/micilini/wp-micilini/blob/main/assets/img/tela-01.png)
+
 Este é um tema simples feito WordPress, criado com carinho pelo Portal da [Micilini](https://micilini.com) 🤖
 
 Ele faz parte da [Jornada de Criação de Temas do WordPress](https://micilini.com/conteudos/wordpress) presente em nosso portal, vale a pena dar uma olhada 👀
@@ -20,7 +22,9 @@ Que tal aprender a criar temas completos para WordPress? Não deixe de [visitar 
 
 Segue abaixo, algumas imagens do Tema em questão 😁
 
-
+![Tela 02](https://github.com/micilini/wp-micilini/blob/main/assets/img/tela-02.png)
+![Tela 03](https://github.com/micilini/wp-micilini/blob/main/assets/img/tela-03.png)
+![Tela 04](https://github.com/micilini/wp-micilini/blob/main/assets/img/tela-04.png)
 
 
 
