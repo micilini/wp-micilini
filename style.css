@@ -1,0 +1,135 @@
+/*
+Theme Name: Micilini WPTema
+Theme URI: https://micilini.com/conteudos/wordpress
+Author: Micilini Roll
+Author URI: https://micilini.com/william-lima
+Description: Este tema foi criado com o intuito de ensinar os alunos do portal da micilini.com a desenvolverem seus próprios temas usando a plataforma do WordPress.
+Requires at least: 5.3
+Tested up to: 6.3
+Requires PHP: 8.0
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wp-micilini
+Tags: accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images
+*/
+
+/* Navbar - Header */
+body, html{
+    padding:0px;
+    margin:0px;
+}
+
+.navbar-header{
+    width:100%;
+    height:auto;
+    background-color:#333333;
+}
+
+.navbar-header .container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-header .col-menu .menu-container{
+    height:100%;
+}
+
+.navbar-header .col-menu .menu{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+
+.navbar-header .col-menu .menu .menu-item a{
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.img-fluid-wpmicilini{
+    width: 100%;
+    height: 231px;
+    object-fit: cover;
+}
+
+/* Footer Content */
+
+.footer-content{
+    width:100%;
+    height:auto;
+    background-color:#333333;
+}
+
+.footer-content .container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-content .container .row{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.footer-content .col-copy{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.footer-content .col-copy a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.footer-content .col-menu .menu-container{
+    height:100%;
+}
+
+.footer-content .col-menu .menu{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    margin:0px;
+}
+
+.footer-content .col-menu .menu .menu-item a{
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: white;
+    text-transform: uppercase;
+}
+
+/* Paginação */
+
+.pagination{
+    justify-content: center;
+    align-items: center;
+    margin-top:40px;
+    margin-bottom:40px;
+}
+
+.pagination span, .pagination a{
+    padding: 12px;
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:15px;
+    font-size: 16px;
+    background-color: #E0DBE0;
+    color: #222222;
+    border-radius: 12px;
+}
+
+.pagination .current{
+    background-color: #4e4e4e;
+    color: #222222;
+}
